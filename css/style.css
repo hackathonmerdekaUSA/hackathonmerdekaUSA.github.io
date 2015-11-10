@@ -8,9 +8,9 @@
  * Codyhouse.co
  */
 
-.default_color{background-color: #ee6e73 !important}
+.default_color{background-color: #bb2526 !important}
 
-.default_color_text{color: #ee6e73 !important}
+.default_color_text{color: #bb2526 !important}
 
 .icon-block {
   padding: 0 15px;
@@ -24,7 +24,7 @@
 	min-height: 632px;
 	max-height: 864px;
 	position: relative;
-	background-color: #ee6e73;
+	background-color: #bb2526;
 }
 
 #nav_f{
@@ -52,20 +52,20 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #ee6e73;}
+.span_h2 {font-weight: 300;color: #bb2526;}
 
-.text_b{color: #ee6e73;}
+.text_b{color: #bb2526;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-	color: #ee6e73;
+	color: #bb2526;
 	font-size: 7rem;
 	display: block;
 }
-.card-content a {color: #ee6e73;}
+.card-content a {color: #bb2526;}
 
-.card-content a:hover {color: #ee6e73;}
+.card-content a:hover {color: #bb2526;}
 
 #work{background: rgb(247, 247, 247);}
 
@@ -117,7 +117,7 @@ xtype
   visibility: hidden;
 }
 .cd-headline.type .cd-words-wrapper.selected b {
-  color: #ee6e73;
+  color: #bb2526;
 }
 .cd-headline.type b {
   visibility: hidden;
