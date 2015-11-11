@@ -80,6 +80,13 @@ nav ul a {
   padding: 0px 15px;
 }
 
+.span_h2 a {
+  background-color: #bb2526;
+  color: white;
+  padding: 0px 15px;
+  font-weight: medium;
+}
+
 /* -------------------------------- 
 
 xtype 
